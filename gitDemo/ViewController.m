@@ -19,7 +19,10 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
 }
-
+-(void)newMethod
+{
+    // to d0
+}
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
